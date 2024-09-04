@@ -1,7 +1,7 @@
 /*
 Autora: Larissa Ramos
 Data: 03/09/2024
-Git Hub: https://github.com/larisramos
+GitHub: https://github.com/larisramos
 LinkedIn: https://www.linkedin.com/in/lariramos/
 
 Exercício 10 – Conversão de dólar para real
@@ -21,7 +21,7 @@ programa
 	{
 		
 		escreva("Valor da cotação atual: ")
-		leia(cotacaoAtual)
+		leia(cotacaoAtual)
 		limpa()
 		escreva("Informe a quantidade de dólares que deseja comprar: ")
 		leia (compraDolar)
@@ -36,7 +36,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 146; 
+ * @POSICAO-CURSOR = 45; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

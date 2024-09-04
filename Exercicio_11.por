@@ -1,7 +1,7 @@
 /*
 Autor: Larissa Ramos
 Data: 04/09/2024
-Git Hub: https://github.com/larisramos
+GitHub: https://github.com/larisramos
 LinkedIn: https://www.linkedin.com/in/lariramos/
 
 Exercício 11 – Soma dos quadrados dos números
@@ -34,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 664; 
+ * @POSICAO-CURSOR = 44; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

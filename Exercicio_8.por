@@ -1,7 +1,7 @@
 /*
 Autor: Larissa Ramos
 Data: 03/09/2024
-Git Hub: https://github.com/larisramos
+GitHub: https://github.com/larisramos
 LinkedIn: https://www.linkedin.com/in/lariramos/
 
 Fazer um fluxograma que solicite o valor do raio r e a altura h de um cilindro e calcule o seu volume.
@@ -29,7 +29,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 596; 
+ * @POSICAO-CURSOR = 44; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

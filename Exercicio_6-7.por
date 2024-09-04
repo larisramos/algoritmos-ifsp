@@ -1,7 +1,7 @@
 /* 
 Autor: Larissa Ramos
 Data: 03/09/2024
-Git Hub: https://github.com/larisramos
+Github: https://github.com/larisramos
 LinkedIn: https://www.linkedin.com/in/lariramos/
 
 Exercício 6: Fazer um fluxograma que solicite o valor dos lados a e b de um retângulo e calcule a sua área.
@@ -52,7 +52,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1185; 
+ * @POSICAO-CURSOR = 46; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

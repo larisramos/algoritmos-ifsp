@@ -5,28 +5,34 @@ GitHub: https://github.com/larisramos
 LinkedIn: https://www.linkedin.com/in/lariramos/
 *************************************************************************************************************
 
-Exercício 42 – Distância entre o Sol e a Terra
-• Sabendo que a distância entre o Sol e a Terra é de 149.600.000 km e a velocidade da
-luz é de 299.792.458 metros por segundo, calcule quanto o tempo que a luz leva para
-percorrer o caminho entre o Sol e a Terra. Apresente o resultado em minutos e
-segundos, precisamente.
+Exercício 48 – Carro alugado
+1. Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias 
+pelos quais ele foi alugado.
+2. Calcule o preço a pagar, sabendo que o carro custa R$ 60 por dia e R$ 0,15 por Km rodado.
 */
 
 programa
 {
 	inclua biblioteca Matematica --> math
+	
 	funcao inicio()
 	{
-		//Declaração de variáveis
-		real tempo, minutos, segundos
-		
-		//Processamento
-		tempo=math.arredondar((149600000/(299792458*3.6)), 4) // Km/ h -> tempo em horas 
-		minutos=math.arredondar((tempo*60), 2)
-		
+		//Declaração de variaveis
+		inteiro dias
+		real rodadosKM, valor
 
-		//Saída
-		escreva("Tempo estimado para a luz percorrer a distância entre o Sol e a Terra é de ", minutos," min e seg")
+		//Entrada de dados
+		escreva("KM PERCORRIDOS: ")
+		leia(rodadosKM)
+		escreva("\nDIAS ALUGADOS: ")
+		leia(dias)
+
+		//PROCESSAMENTO
+		limpa()
+		valor = math.arredondar(((60*dias)+(0.15*rodadosKM)), 2)
+
+		//Saída de dados
+		escreva("Valor a pagar:\nR$ ",valor)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -34,7 +40,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 823; 
+ * @POSICAO-CURSOR = 910; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
